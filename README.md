@@ -49,7 +49,12 @@ while True:
 
 
 ## OUTPUT
+# Server 
+
 <img width="620" height="160" alt="image" src="https://github.com/user-attachments/assets/c7dcc997-4015-4502-bf33-fea895d55841" />
+
+
+# Client 
 
 <img width="608" height="145" alt="image" src="https://github.com/user-attachments/assets/d719168d-53ce-4829-b968-63aaeb86569b" />
 
